@@ -1,0 +1,8 @@
+{
+  "name": "GRANTLY – Unified Scholarship Discovery & Management Platform",
+  "description": "Discover scholarships, verify eligibility, get AI-powered recommendations, and track deadlines seamlessly with GRANTLY.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
