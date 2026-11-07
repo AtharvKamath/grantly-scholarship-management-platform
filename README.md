@@ -151,14 +151,6 @@ Project: GRANTLY – Unified Scholarship Discovery & Management Platform.
 
 ---
 
-## 📩 Contact
-
-For questions, suggestions or collaboration:
-
-**Email:** business.atharvk@gmail.com
-
----
-
 ⭐ If you find this project useful, consider giving the repository a star!
 
 **GRANTLY – Your Future Deserves Every Opportunity.**
